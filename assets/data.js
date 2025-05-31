@@ -1,4 +1,16 @@
 const data = [
+
+    {
+    name: "Rakibul Hasan",
+    date: "march 29, 2025",
+    title: "Focus Flash",
+    image: "focus.png",
+    android: "https://play.google.com/store/apps/details?id=smartagro",
+    ios: "https://apps.apple.com/app/id123456789",
+    description: "Focus Flash is a complete Flutter-based productivity app that helps users build focus using proven methods like Pomodoro, reminders, attention laws, and task organizing.",
+    technology: "Flutter framework and riverpod state management",
+    solution: "this app helps reduce distractions and boost deep work sessions."
+  },
   {
     name: "Rakibul Hasan",
     date: "march 16, 2025",
