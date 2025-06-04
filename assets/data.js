@@ -91,7 +91,7 @@ const data = [
   {
     name: "Rakibul Hasan",
     date: "May 9, 2025",
-    title: "Supersaver",
+    title: "Lifestyle",
     image: "h.png",
     android: "https://play.google.com/store/apps/details?id=localboost",
     ios: "https://apps.apple.com/app/id823456789",
@@ -136,12 +136,12 @@ const data = [
     name: "Rakibul Hasan",
     date: "May 5, 2025",
     title: "Daily Workout Coach",
-    image: "d.png",
+    image: "powerpulse.png",
     android: "https://play.google.com/store/apps/details?id=com.fitness.power_pulse",
     ios: "https://apps.apple.com/us/app/powerhaus/id6740179355",
-    description: "Find mosques and prayer times.",
+    description: "Exercise List per category",
     technology: "Flutter, REST APIs",
-    solution: "Supports Muslims on the go."
+    solution: "User can get immediate exercise by animation demo"
   },
 
   {
