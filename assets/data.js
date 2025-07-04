@@ -199,5 +199,16 @@ const data = [
     description: "Find mosques and prayer times.",
     technology: "Flutter, REST APIs",
     solution: "Supports Muslims on the go."
+  },
+{
+    name: "Rakibul Hasan",
+    date: "May 5, 2025",
+    title: "Focus Dom",
+    image: "focus_dom.png",
+    android: "https://play.google.com/store/apps/details?id=com.bd.k2k&hl=en",
+    ios: "https://apps.apple.com/us/app/bodymetric/id6744912462",
+    description: "Find mosques and prayer times.",
+    technology: "Flutter,Riverpod,hive",
+    solution: "deep work and focus timer"
   }
 ];
